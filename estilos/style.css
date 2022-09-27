@@ -53,6 +53,7 @@ section#login>div#imagem{
     background: #5f2c82 url(../imagens/top.jpg) no-repeat;
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     height: 200px;
 }
 
